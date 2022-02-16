@@ -1,0 +1,26 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsi8012/Playwright.git"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "author": "AtlasovOA",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.19.1",
+    "playwright": "^1.19.0"
+  },
+  "bugs": {
+    "url": "https://github.com/arsi8012/Playwright/issues"
+  },
+  "homepage": "https://github.com/arsi8012/Playwright#readme"
+}
